@@ -1,0 +1,5 @@
+google-cloud-storage
+mysql-connector-python
+flask
+scikit-learn
+numpy
